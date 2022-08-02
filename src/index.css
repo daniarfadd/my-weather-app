@@ -39,8 +39,9 @@ h1 {
 
 body {
   content: '';
+  background-color: red;
   background: url('../assets/weather.jpg') no-repeat fixed center/cover;
-  position: absolute;
+  position: relative;
   width: 100%;
   height: 100vh;
   z-index: -1;
